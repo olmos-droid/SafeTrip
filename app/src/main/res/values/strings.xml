@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SafeTrip</string>
+    <string name="titol">SafeTrip</string>
+    <string name="subTitol">Gestión de placeres y riesgos</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="cannabis">Cannabis</string>
+    <string name="cocaina">Cocaina</string>
+    <string name="mdma">MDMA</string>
+    <string name="lsd">LSD</string>
+    <string name="speed">Speed</string>
+    <string name="ketamina">Ketamine</string>
+    <string name="ghb">GHB</string>
+    <string name="viadministrativa">Via Administración</string>
+    <string name="duracion">Duracion</string>
+    <string name="dosis">Dosis</string>
+    <string name="precio">Precio</string>
+    <string name="doscb">2C-B</string>
+</resources>
